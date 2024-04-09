@@ -588,12 +588,11 @@ input:active {
     color: white;
     /* Ensure button is fully visible */
     cursor: default;
-    /* position: absolute; */
+    position: absolute;
     /* right: 70%;  */
     top: 48%;
     /* transform: translateY(-50%); */
     left: 85%;
-    position: fixed;
     font-weight: 600;
     /* text-transform: uppercase; */
     border: none;
@@ -659,7 +658,7 @@ input:active {
   }
   .line-2 {
     height: 1px;
-    width: 110%;
+    width: 94%;
     opacity: 0.5;
     align-self: center;
     text-align: center;
