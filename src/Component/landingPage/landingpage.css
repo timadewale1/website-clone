@@ -552,6 +552,9 @@ input:active {
   align-items: center;
 }
 @media (max-width: 800px) {
+  .landing-page {
+    width: 100%;
+  }
   .text {
     display: block;
   }
@@ -590,6 +593,7 @@ input:active {
     top: 48%;
     /* transform: translateY(-50%); */
     left: 85%;
+    position: fixed;
     font-weight: 600;
     /* text-transform: uppercase; */
     border: none;
@@ -635,7 +639,7 @@ input:active {
   }
   .big-box {
     width: 94%;
-    height: 320px;
+    height: 350px;
     text-align: center;
   }
   .mini-box {
@@ -671,6 +675,9 @@ input:active {
   }
   .secure-box {
     display: block;
+  }
+  .secure-box-1 {
+    height: 275px;
   }
   .secure-box-1,
   .secure-box-2 {
