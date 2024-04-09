@@ -639,7 +639,7 @@ input:active {
   }
   .big-box {
     width: 94%;
-    height: 350px;
+    height: 370px;
     text-align: center;
   }
   .mini-box {
@@ -812,7 +812,7 @@ input:active {
   }
   .big-box {
     width: 94%;
-    height: 350px;
+    height: 370px;
     text-align: center;
     justify-content: center;
     align-items: center;
