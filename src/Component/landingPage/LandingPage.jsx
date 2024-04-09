@@ -179,7 +179,7 @@ const LandingPage = () => {
           </div>
           <div className="big-box-2">
             <div className="mini-box-2">
-              <div>
+              <div className="middle">
                 <p>Total Rewards $USDT</p>
                 <h2>873,614</h2>
               </div>
@@ -191,7 +191,7 @@ const LandingPage = () => {
 
             <div className="line-2"></div>
             <div className="mini-box-2">
-              <div>
+              <div className="middle">
                 <p>Total Rewards $USDT</p>
                 <h2>873,614</h2>
               </div>
@@ -201,7 +201,7 @@ const LandingPage = () => {
               </div>
             </div>
             <div className="line-2"></div>
-            <div>
+            <div className="middle">
               <p>Total Rewards $USDT</p>
               <h2>873,614</h2>
             </div>

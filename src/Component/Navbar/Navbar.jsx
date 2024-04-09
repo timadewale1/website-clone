@@ -77,7 +77,7 @@ const Navbar = () => {
             <button className="yellow">WIN 50,000</button>
           </div>
           <div className="second-button">
-            <button className="connect">CONNECT</button>
+            <button className="connect">CONNECT WALLET</button>
           </div>
           <div className="outline">
             <HiOutlineBars3 onClick={() => dispatch({ type: "OPEN_MENU" })} />

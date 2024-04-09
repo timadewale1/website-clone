@@ -49,11 +49,11 @@ nav {
 }
 
 .yellow {
-  width: 100px;
+  width: 140px;
   height: 40px;
   border-radius: 10px;
   border: none;
-  font-weight: bolder;
+  font-weight: bold;
   background-color: rgb(237 220 93);
   margin-top: 7px;
   margin-left: 10px;
@@ -61,15 +61,16 @@ nav {
 }
 .connect {
   color: white;
-  width: 100px;
+  width: 200px;
   height: 40px;
   border-radius: 10px;
   border: none;
-  font-weight: bolder;
+  font-weight: bold;
   background-color: rgb(133 84 251);
-  margin-top: 7px;
-  margin-left: 10px;
-  margin-right: 10px;
+  /* margin-top: 7px; */
+  /* margin-left: 10px; */
+  text-align: center;
+  /* margin-right: 10px; */
 }
 @media (max-width: 800px) {
   .navbar-content {
@@ -81,6 +82,7 @@ nav {
     margin-left: 15px;
     margin-top: 7px;
     font-size: 40px;
+    color: white;
   }
 }
 @media (max-width: 500px) {
